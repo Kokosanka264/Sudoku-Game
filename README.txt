@@ -1,0 +1,1 @@
+A Java desktop application for entering and automatically solving Sudoku puzzles.   It features a graphical user interface built with Swing and utilizes a backtracking algorithm to find valid solutions.   The project highlights solved numbers in real time and offers quick board clearing functionality.   
